@@ -1,72 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Small Business Website</title>
+    <title>User Feedback Form</title>
 
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-<header>
-    <h1>Bright Solutions</h1>
 
-    <nav>
-        <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Contact</a></li>
-        </ul>
-    </nav>
-</header>
-<main>
+    <h1>User Feedback Form</h1>
+    <p>Please fill out the form below and let us know what you think.</p>
 
-    <section class="hero">
-        <h2 id="ctaHeading">Grow Your Business Today!</h2>
+    <form id="feedback-form">
 
-        <p>
-            Bright Solutions helps small businesses improve their online presence,
-            attract customers, and increase sales through modern digital solutions.
-        </p>
-    </section>
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name"><br><br>
 
-</main>
-<section class="services">
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email"><br><br>
 
-    <div class="service">
-        <h3>Web Design</h3>
-        <p>Professional websites for growing businesses.</p>
-    </div>
+        <label for="comments">Comments:</label><br>
+        <textarea id="comments" name="comments" rows="5" cols="40"></textarea>
 
-    <div class="service">
-        <h3>Marketing</h3>
-        <p>Reach more customers through digital advertising.</p>
-    </div>
+        <p id="charCount">Characters: 0</p>
 
-    <div class="service">
-        <h3>Consulting</h3>
-        <p>Business strategies that help increase profits.</p>
-    </div>
+        <p id="message"></p>
 
-</section>
-<section class="update-section">
+        <button type="submit">Submit Feedback</button>
 
-    <h2>Update the Headline</h2>
+    </form>
 
-    <input
-        type="text"
-        id="headlineInput"
-        placeholder="Enter a new headline">
+    <h2>Submitted Feedback</h2>
 
-    <button id="updateButton">
-        Update Headline
-    </button>
+    <div id="feedback-display"></div>
 
-</section>
-<footer>
-    <p>Email: info@brightsolutions.com</p>
-    <p>Phone: (555) 123-4567</p>
-</footer>
-<script src="cc_7.js"></script>
+    <script src="cp_1.js"></script>
+
 </body>
+
 </html>
