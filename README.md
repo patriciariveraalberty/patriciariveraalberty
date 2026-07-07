@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Patricia Rivera Alberty 👋
 
-<!--
-**patriciariveraalberty/patriciariveraalberty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a student studying Business Analytics at the University of South Florida. My academic interests include data analysis, business intelligence, and visualization.
 
-Here are some ideas to get you started:
+I am interested in building a career in business analytics and data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently, I am learning and developing skills in:
+
+- Tableau
+- SQL
+- Python
+- JavaScript
+- HTML & CSS
+- React
+- Next.js
+- Microsoft Excel
+
+I enjoy expanding my technical knowledge and continuing to develop skills that will support my future career goals.
+
+## Featured Projects
+
+- **Project 10 – My Task Manager** – Built with Next.js, React, and Tailwind CSS.
+- **Coding Project 02 – Product Dashboard** – Interactive dashboard using JavaScript and an external API.
+- **Coding Project 01 – Feedback Form** – Interactive form with validation and dynamic feedback.
+- **Coding Challenge 07 – Small Business Landing Page** – Responsive website built with HTML, CSS, and JavaScript.
+
+Thanks for visiting my GitHub profile!
