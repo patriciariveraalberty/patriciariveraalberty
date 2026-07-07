@@ -19,7 +19,7 @@ I enjoy expanding my technical knowledge and continuing to develop skills that w
 
 ## Featured Projects
 
-- **Project 10 – My Task Manager** – Built with Next.js, React, and Tailwind CSS.
+- **Coding Project 10 – My Task Manager** – Built with Next.js, React, and Tailwind CSS.
 - **Coding Project 02 – Product Dashboard** – Interactive dashboard using JavaScript and an external API.
 - **Coding Project 01 – Feedback Form** – Interactive form with validation and dynamic feedback.
 - **Coding Challenge 07 – Small Business Landing Page** – Responsive website built with HTML, CSS, and JavaScript.
