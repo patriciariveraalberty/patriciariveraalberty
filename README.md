@@ -2,7 +2,7 @@
 
 I am currently a student studying Business Analytics at the University of South Florida. My academic interests include data analysis, business intelligence, and visualization.
 
-I am interested in building a career in business analytics and data-driven decision making.
+I am interested in building a career in business analytics and data-driven decision making. I enjoy building web applications, analyzing data, and using technology to solve real-world business problems while continuously expanding my technical skills.
 
 ## Currently, I am learning and developing skills in:
 
